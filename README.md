@@ -3,9 +3,9 @@
 
 A 4x4 game board checker!
 
-<h2>To run tests:</h2>
+## To run tests
 
-> Clone the repository
-> Open a terminal in the repo's root folder
->> npm install
->> npm run test
+1. Clone the repository
+2. Open a terminal in the repo's root folder
+3. Run `npm install`
+4. Run `npm run test`
