@@ -1,0 +1,22 @@
+{
+  "name": "tictac4toes",
+  "version": "1.0.0",
+  "description": "A 4x4 game board checker!",
+  "main": "TicTac4Toes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaymarieee/TicTac4Toes.git"
+  },
+  "author": "https://github.com/shaymarieee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaymarieee/TicTac4Toes/issues"
+  },
+  "homepage": "https://github.com/shaymarieee/TicTac4Toes#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
